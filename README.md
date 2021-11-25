@@ -1,4 +1,6 @@
 ### Hi there 👋
+## My name is #Tomas
+React, Expo, Angular, Ionic
 
 <!--
 **tkarf/tkarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
