@@ -7,9 +7,9 @@
 ⚡ Fun fact: I used to do stand up comedy but more of a one hit wonder. Also cooks my own liquorice.  
   
 Tech stack:  
-React | Angular | Firebase | Supabase | Next.js | Node.js | Express | Ionic | React Native 
+React | Angular | Firebase | Supabase | Next.js | Node.js | Express | Ionic | React Native | Expo
 
-Currently learning: 
+Currently learning:   
 C# | Python
 
 <!--
