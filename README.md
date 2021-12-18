@@ -9,7 +9,7 @@
 Tech stack:  
 React | Angular | Firebase | Supabase | Next.js | Node.js | Express | Ionic | React Native 
 
-Currently learning:
+Currently learning: 
 C# | Python
 
 <!--
