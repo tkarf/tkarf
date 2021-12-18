@@ -7,7 +7,10 @@
 ⚡ Fun fact: I used to do stand up comedy but more of a one hit wonder. Also cooks my own liquorice.  
   
 Tech stack:  
-React | Angular | Firebase | Supabase | Next.js | Node.js | Express | Ionic | React Native | PostgreSQL  
+React | Angular | Firebase | Supabase | Next.js | Node.js | Express | Ionic | React Native 
+
+Currently learning:
+C# | Python
 
 <!--
 **tkarf/tkarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
